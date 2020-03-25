@@ -1,0 +1,7 @@
+# Каталоги
+.idea/
+vendor/
+
+# Файлы
+composer.lock
+

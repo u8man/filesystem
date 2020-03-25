@@ -1,0 +1,24 @@
+{
+  "name": "manuylenko/filesystem",
+  "version": "0.1.4",
+  "license": "MIT",
+  "type": "library",
+  "keywords": [],
+  "description": "Filesystem Component",
+  "authors": [
+    {
+      "name": "Yuriy Manuylenko"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Manuylenko\\Filesystem\\": "src"
+    },
+    "exclude-from-classmap": [
+      "src/Tests"
+    ]
+  },
+  "require": {
+    "php": ">=5.6"
+  }
+}
